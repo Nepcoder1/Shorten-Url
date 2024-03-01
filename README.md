@@ -18,7 +18,7 @@ Welcome to our URL Shortener project! This simple yet powerful script allows you
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/Nepcoder1/Shorten-Url
+   git clone https://github.com/Nepcoder1/Shorten-Url
    ```
 
 2. **Setup:**
